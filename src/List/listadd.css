@@ -1,0 +1,15 @@
+.listGroup{
+    width: 15%;
+    min-height: 700px;
+    max-width:  250px;
+    float: left;
+    margin-left: 0px;
+}
+
+.mainCard{
+    flex: 1;
+    background: #aaa;
+    overflow-y: scroll;   
+    justify-content: center;
+
+}

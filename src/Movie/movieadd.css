@@ -1,0 +1,40 @@
+Form{
+    align-self: auto;
+    align-content: center;
+    width: 100%;
+    height: 100%;
+}
+.cBody{
+    background-color: rgba(194, 178, 180, 1);
+}
+
+.card{
+    width: 100%;
+}
+
+.movieCard{
+    width:100%;
+    height: 100%;
+}
+
+.directorCard{
+    width: 100%;
+    height: 100%;
+}
+
+.genreCard{
+    width: 100%;
+    height: 100%;
+}
+
+.movieCBody{
+    background-color: rgba(199, 240, 189, 1);
+}
+
+.directorCBody{
+    background-color: rgba(199, 240, 189, 1);
+}
+
+.genreCBody{
+    background-color: rgba(199, 240, 189, 1);
+}
