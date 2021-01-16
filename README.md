@@ -1,3 +1,6 @@
+#MovieDatabaseApp-Frontend
+This project is made during my summer internship at OBSS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
